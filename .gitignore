@@ -1,5 +1,9 @@
 ClientServerApp.iml
 .gitignore
 .idea
-Client/Client.iml
+Server/logs
 Server/Server.iml
+Client/Client.iml
+Client/logs
+Server/target
+Client/target
