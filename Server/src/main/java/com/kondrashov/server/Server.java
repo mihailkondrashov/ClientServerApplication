@@ -19,9 +19,9 @@ import java.util.Properties;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class ServerApp {
+public class Server {
 
-    private static final Logger logger = LogManager.getLogger(ServerApp.class);
+    private static final Logger logger = LogManager.getLogger(Server.class);
     private static final int PORT = 8087;
     private static final Properties properties = new Properties();
 
